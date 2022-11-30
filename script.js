@@ -1,3 +1,5 @@
 
-console.log('Let start')
-qwe
+let a = 'fin'
+let b = 'aly'
+console.log(a + b)
+
